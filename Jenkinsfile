@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Restore the project') {
             steps {
-                powershell 'dotnet restore'
+                bat 'dotnet restore'
             }
         }
         stage('Build the project') {
