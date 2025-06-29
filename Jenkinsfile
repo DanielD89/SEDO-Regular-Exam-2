@@ -1,11 +1,5 @@
 pipeline {
-    agent {
-        label 'windows'
-    }
-
-    environment {
-        DOTNET_VERSION = '8.0'
-    }
+    agent any
 
     stages {
         stage('Checkout') {

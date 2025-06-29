@@ -1,0 +1,15 @@
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\bin\Debug\net8.0\Horizons.Data.deps.json
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\bin\Debug\net8.0\Horizons.Data.runtimeconfig.json
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\bin\Debug\net8.0\Horizons.Data.dll
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\bin\Debug\net8.0\Horizons.Data.pdb
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\Horizons.Data.csproj.AssemblyReference.cache
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\Horizons.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\Horizons.Data.AssemblyInfoInputs.cache
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\Horizons.Data.AssemblyInfo.cs
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\Horizons.Data.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\Horizons.Data.sourcelink.json
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\Horizons.Data.dll
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\refint\Horizons.Data.dll
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\Horizons.Data.pdb
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\Horizons.Data.genruntimeconfig.cache
+D:\Programming\SoftUni\Daniel_Danov_exam_29.06.2025\SEDO-Regular-Exam-2\Horizons.Data\obj\Debug\net8.0\ref\Horizons.Data.dll
